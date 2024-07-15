@@ -1,0 +1,1 @@
+docker buildx build --push -t johnnyworks/pnpm:18.19.0-slim --platform linux/amd64,linux/arm64,linux/arm/v7 .
