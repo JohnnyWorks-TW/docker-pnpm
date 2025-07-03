@@ -29,4 +29,4 @@ jobs:
         push: true
         tags: |
           johnnyworks/pnpm:latest
-          johnnyworks/pnpm:18.19.0-slim
+          johnnyworks/pnpm:20.19.0-slim

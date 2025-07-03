@@ -36,7 +36,7 @@
 根據觸發條件，會生成不同的標籤：
 
 - `johnnyworks/pnpm:latest` - 主分支的最新建構
-- `johnnyworks/pnpm:18.19.0-slim` - 主分支的版本標籤
+- `johnnyworks/pnpm:20.19.0-slim` - 主分支的版本標籤
 - `johnnyworks/pnpm:v1.0.0` - 基於 Git 標籤的版本
 - `johnnyworks/pnpm:main` - 分支名標籤
 

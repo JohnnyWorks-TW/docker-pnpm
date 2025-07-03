@@ -9,5 +9,5 @@ You can use this image as a base image for your project.
 or you can run it directly to use pnpm.
 
 ```bash
-docker run --rm -it johnnyworks/pnpm:18.19.0-slim bash
+docker run --rm -it johnnyworks/pnpm:20.19.0-slim bash
 ```
